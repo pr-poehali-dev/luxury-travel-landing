@@ -36,7 +36,7 @@ const AboutSection = () => {
               <ul className="space-y-3 text-lg">
                 <li className="flex items-center">
                   <span className="w-2 h-2 bg-white rounded-full mr-3"></span>
-                  Планируем любые путешествия
+                  Планируем путешествия любого формата
                 </li>
                 <li className="flex items-center">
                   <span className="w-2 h-2 bg-white rounded-full mr-3"></span>
@@ -48,7 +48,7 @@ const AboutSection = () => {
                 </li>
                 <li className="flex items-center">
                   <span className="w-2 h-2 bg-white rounded-full mr-3"></span>
-                  100% легко и безопасно
+                  100% легально и безопасно
                 </li>
               </ul>
             </div>
